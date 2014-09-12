@@ -29,3 +29,31 @@ img {
   display: block;
   width: 100%;
 }
+
+
+.dino, figcaption {
+    font-family: serif, times;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+.stats {
+    float: left;
+    width: 30%;
+    padding-left: 1rem
+    
+}
+
+.stats h2 {
+    color: grey;
+ }
+
+.title {
+    padding-left: 1.5rem;
+}
+
+
+    
